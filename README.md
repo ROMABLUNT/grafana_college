@@ -121,6 +121,47 @@
 
 ![image](https://github.com/user-attachments/assets/0ae262c5-5e60-46aa-8c51-ebfe0dd45e13)
 
+Данная команда с ключом -d переводит автоматически docker compose в фоновый режим
+
+`sudo docker compose up -d`
+
+![image](https://github.com/user-attachments/assets/24673996-0732-4972-bb19-ea4a7840255c)
+
+Эта команда останавливает все активные контейнеры, связанные с проектом, который описан в файле docker-compose.yml
+
+`sudo docker compose stop`
+
+![image](https://github.com/user-attachments/assets/458355d2-e2dc-4049-a59a-672fd5664522)
+
+Эта команда выполняет следующие действия:
+
+Останавливает все активные контейнеры, связанные с проектом.
+Удаляет контейнеры.
+Удаляет сети, созданные автоматически для этого проекта.
+По умолчанию не удаляет объёмы (volumes) и образы (images), если они явно не указаны в параметрах
+
+`sudo docker compose down`
+
+![image](https://github.com/user-attachments/assets/ff5f6f74-5145-4514-be2d-baf77e7a59fc)
+
+Эта команда выводит список контейнеров, которые относятся к текущему проекту, вместе с их состоянием и дополнительной информацией
+
+`sudo docker compose ps`
+
+![image](https://github.com/user-attachments/assets/223897b0-3257-4a4b-b833-30cd0f179311)
+
+`git clone https://github.com/ROMABLUNT/grafana_college.git`
+
+Благодаря этой команде успашно создана папка с наименованием "grafana_college" 
+
+![image](https://github.com/user-attachments/assets/b6088044-75f3-46f9-bfa6-8b49dedf306f)
+
+`pwd`
+
+Команда pwd (от p rint w orking d irectory) используется для вывода текущей рабочей директории (путь к той папке, в которой вы находитесь в данный момент в терминале)
+
+![image](https://github.com/user-attachments/assets/93155505-c60b-4566-afa7-ca13a53f4a1c)
+
 
 
 
