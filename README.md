@@ -193,12 +193,15 @@
 
 
 Ставлю URL прометиуса
+
 ![image](https://github.com/user-attachments/assets/b4d3a027-49c3-493e-b378-0e097e558474)
 
 Аутентификацию устанавливаю. admin admin
+
 ![image](https://github.com/user-attachments/assets/e84c4bdd-b77a-473a-ac1c-8f3541502a85)
 
 Сохраняю и проверяю, что всё хорошо
+
 ![image](https://github.com/user-attachments/assets/40c72839-35e2-4bb8-b74d-6126519d5d33)
 
 
