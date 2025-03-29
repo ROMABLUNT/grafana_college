@@ -210,6 +210,29 @@
 ![image](https://github.com/user-attachments/assets/2d3abf42-691a-4247-a519-f1a8b121c121)
 
 
+VICTORIA METRICS
+
+В докер компоуз уже изначально введено про victoria metrics и при запуске она работает.
+
+я создаю копию моего прометиуса и меняю название на вика
+
+
+![image](https://github.com/user-attachments/assets/d9398785-93eb-4a07-add6-4be84504c67e)
+
+ввожу команды
+
+![image](https://github.com/user-attachments/assets/abf27fb4-6301-44f3-bb66-378b7598f0f7)
+
+
+и в итоге в графане
+
+![image](https://github.com/user-attachments/assets/669df77b-8d1d-469d-8023-fe1a9282dd94)
+
+и в виктории
+
+![image](https://github.com/user-attachments/assets/f20fe0b1-d153-4c6e-b125-e0a8f9d3cdea)
+
+
 
 
 
