@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/15c9f7ec-925d-4d8a-938e-86d15cfd4855)Устанавливаю новую виртуалку и гостевые дополнения
+Устанавливаю новую виртуалку и гостевые дополнения
 
 ![image](https://github.com/user-attachments/assets/ce591b6d-6d29-4c2f-95f3-da65aa0f637d)
 
